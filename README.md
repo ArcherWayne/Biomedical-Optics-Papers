@@ -38,8 +38,10 @@
 - 在心脏电位的光学标定中, 有三个导致运动伪影的因素: 心脏和探测器之间的相对运动; 不均匀的荧光染料分布; 不均匀的光照. 
 
 --- 
-- ****
-- 
+- **Lenses and effective spatial resolution in macroscopic optical mapping**
+- PHYSICS IN MEDICINE AND BIOLOGY / Harold Bien
+- Phys. Med. Biol. 52 (2007) 1–21
+- 描述了荧光光学标定中与其他成像方式的不同: 动态范围, 低荧光信号等.
 
 --- 
 - ****
